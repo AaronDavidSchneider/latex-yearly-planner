@@ -2,7 +2,7 @@
 \myMash{\myNumDailyDiaryGrateful}{\myNumDotWidthFull}
 \medskip
 
-\myUnderline{The best thing that happened today}
+\myUnderline{Daily devotional}
 \myMash{\myNumDailyDiaryBest}{\myNumDotWidthFull}
 \medskip
 
